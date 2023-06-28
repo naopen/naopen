@@ -10,7 +10,7 @@
 [![nkannan's 42 stats](https://badge42.vercel.app/api/v2/clj6i8o9z001108l394enp4xh/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
 [![nkannan's 42 stats](https://badge42.vercel.app/api/v2/clj6i8o9z001108l394enp4xh/stats?cursusId=21&coalitionId=307)](https://github.com/JaeSeoKim/badge42)  
-* Last Piscine Score - [![nkannan's 42 C Piscine C 11 Score](https://badge42.vercel.app/api/v2/clj6i8o9z001108l394enp4xh/project/3045551)](https://github.com/JaeSeoKim/badge42)  
+* Latest Piscine Score - [![nkannan's 42 C Piscine C 11 Score](https://badge42.vercel.app/api/v2/clj6i8o9z001108l394enp4xh/project/3045551)](https://github.com/JaeSeoKim/badge42)  
 * Libft Score - [![nkannan's 42 Libft Score](https://badge42.vercel.app/api/v2/clj6i8o9z001108l394enp4xh/project/3093620)](https://github.com/JaeSeoKim/badge42)  
 <!-- * ft_printf Score - [![nkannan's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clj6i8o9z001108l394enp4xh/project/3124579)](https://github.com/JaeSeoKim/badge42)
 * get_next_line Score - [![nkannan's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clj6i8o9z001108l394enp4xh/project/3124578)](https://github.com/JaeSeoKim/badge42)-->
