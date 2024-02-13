@@ -1,5 +1,5 @@
 <h1 align="center">
-	👋 Hi there
+	👋 Hi there!
 </h1>
 
 <h2 align="center">⚡ Stats ⚡</h2>
