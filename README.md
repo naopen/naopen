@@ -7,9 +7,9 @@
 <div align="center">
 	<img src="https://raw.githubusercontent.com/naopen/naopen/main/profile-summary-card-output/graywhite/0-profile-details.svg"
 		width="800px">
-	<img src="https://raw.githubusercontent.com/naopen/naopen/main/profile-summary-card-output/graywhite/1-repos-per-language.svg"
-		width="400px">
 	<img src="https://raw.githubusercontent.com/naopen/naopen/main/profile-summary-card-output/graywhite/2-most-commit-language.svg"
+		width="400px">
+	<img src="https://raw.githubusercontent.com/naopen/naopen/main/profile-summary-card-output/graywhite/1-repos-per-language.svg"
 		width="400px">
 	<img src="https://raw.githubusercontent.com/naopen/naopen/main/profile-summary-card-output/graywhite/3-stats.svg"
 		width="400px">
