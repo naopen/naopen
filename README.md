@@ -20,10 +20,11 @@
 <h2 align="center">42status 👨‍💻</h2>
 <br>
 <div align="center">
-	<a href="https://github.com/Coday-meric/badge42"><img
+	<!-- <a href="https://github.com/Coday-meric/badge42"><img
 			src="https://badge42.coday.fr/api/v2/clrqdtc5t333601p4mhv1ue9s/stats?cursusId=9&coalitionId=63"
 			alt="nkannan's 42 stats" width="400px" /></a>
 	<a href="https://github.com/Coday-meric/badge42"><img
 			src="https://badge42.coday.fr/api/v2/clrqdtc5t333601p4mhv1ue9s/stats?cursusId=21&coalitionId=307"
-			alt="nkannan's 42 stats" width="400px" /></a>
+			alt="nkannan's 42 stats" width="400px" /></a> -->
+	<img src="https://badge.mediaplus.ma/greenbinary/nkannan?1337Badge=off&UM6P=off" alt="nkannan's 42 stats" />
 </div>
